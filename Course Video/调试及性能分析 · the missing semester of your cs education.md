@@ -103,6 +103,7 @@ journalctl --since "1m ago" | grep Hello
 *   **b**(reak) - 设置断点（基于传入的参数）；
 *   **p**(rint) - 在当前上下文对表达式求值并打印结果。还有一个命令是 **pp** ，它使用 [`pprint`](https://docs.python.org/3/library/pprint.html) 打印；
 *   **r**(eturn) - 继续执行直到当前函数返回；
+* locals()-我可以使用“locals()”，这是一个 Python 函数 ，它返回一个包含所有值的字典以快速查看整个上下文。
 *   **q**(uit) - 退出调试器。
 
 让我们使用`pdb` 来修复下面的 Python 代码（参考讲座视频）
