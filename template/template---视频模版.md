@@ -3,7 +3,7 @@
 Topic: {{title}}
 Date: {{date:MMM d, YYYY}}
 Course:
-Class:
+Material link:
 
 ---
 

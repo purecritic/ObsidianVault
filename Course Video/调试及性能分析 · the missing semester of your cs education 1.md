@@ -2,7 +2,7 @@
 Topic: the missing semester lecture7
 Date: 1月 2, 2023
 Course:the missing semester lecture7
-Class:
+Material link：[[调试及性能分析 · the missing semester of your cs education]]
 
 ---
 
